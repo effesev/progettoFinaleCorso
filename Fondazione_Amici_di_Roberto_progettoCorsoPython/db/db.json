@@ -1,0 +1,58 @@
+{
+    "progetti": [
+      {
+        "id": "1",
+        "titolo": "Puliamo Roberto",
+        "descBreve": "Questo progetto mira a dare una ripulita alla persona di Roberto, così è un attimino più presentabile a tutti i suoi cari ammiratori!",
+        "img": "./img/progetti/progetto1.jpg"
+      },   
+   {
+        "id": "2",
+        "titolo": "Accarezziamo Roberto",
+        "descBreve": "Questo progetto mira a coccolare la persona di Roberto, così da renderlo più felice e tranquillo.",
+        "img": "./img/progetti/progetto2.jpg"
+      },
+      {
+        "id": "3",
+        "titolo": "Insultiamo Roberto",
+        "descBreve": "Prendiamoci tempo e spazio per sfogarci collettivamente sulla persona di Roberto. Incluso il progetto: Scusiamoci con Roberto. Compri 2 paghi 1!",
+        "img": "./img/progetti/progetto3.jpg"
+      }, 
+      {
+        "id": "4",
+        "titolo": "Scusiamoci con Roberto",
+        "descBreve": "Cogli l'opportunità per scusarti con Roberto nel caso tu abbia aderito a 'Insultiamo Roberto'. Tuttavia l'obiettivo di questo progetto non è far stare meglio Roberto ma sentirvi meglio voi per esservi scusati.",
+        "img": "./img/progetti/progetto4.jpg"
+      },
+      {
+        "id": "5",
+        "titolo": "Passeggiata con Roberto",
+        "descBreve": "Dato il grande amore che hanno le persone per gli alpaca, Roberto vi propone una grande passeggiata in montagna con questi bellissimi animali! Venite a passeggiare con lui e gli alpaca!",
+        "img": "./img/progetti/progetto5.jpg"
+      },
+      {
+        "id": "6",
+        "titolo": "Roberto Consulenza",
+        "descBreve": "Con il progetto 'Roberto Consulenza' puntiamo a migliorare le capacità comunicative di Roberto con sessioni di gruppo divertenti ma anche molto istruttive sul ruolo che il linguaggio può avere nella formazione di un individuo.",
+        "img": "./img/progetti/progetto6.jpg"
+      },
+      {
+        "id": "7",
+        "titolo": "Cuciniamo con Roberto",
+        "descBreve": "Divertirsi con Roberto è bello, lo sappiamo, ma anche molto impegnativo! Allora facciamo il pieno di energie cucinando e mangiando insieme alla nostra mascotte!",
+        "img": "./img/progetti/progetto7.jpg"
+      },
+      {
+        "id": "8",
+        "titolo": "Roberto & Parents",
+        "descBreve": "Da anni ormai ogranizziamo questo evento dove potrete portare i vostri genitori a conoscere Roberto e cimentarvi in giochi per tutta la famiglia. I sorrisi sui volti dei partecipanti ci fanno capire che non solo questa iniziativa è apprezzata ma anche utile.",
+        "img": "./img/progetti/progetto8.jpg"
+      },
+      {
+        "id": "9",
+        "titolo": "Salutiamo Roberto",
+        "descBreve": "Sta arrivando l'inverno e, come sempre in questo periodo, tutti i Roberto del mondo vanno in letargo per destarsi poi in primavera più robertosi di prima. Non perdete l'occasione di salutare il nostro Roberto che tanto ci ha appassionato e divertito nell'ultimo anno. Occasione solo invernale, approfittatene!",
+        "img": "./img/progetti/progetto9.jpg"
+      }     
+  ]
+}
